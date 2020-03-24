@@ -1,0 +1,253 @@
+ISO-3166,Country,Population,Continent
+CN,China,"1,330,044,000",AS
+IN,India,"1,173,108,018",AS
+US,United States,"310,232,863",NA
+ID,Indonesia,"242,968,342",AS
+BR,Brazil,"201,103,330",SA
+PK,Pakistan,"184,404,791",AS
+BD,Bangladesh,"156,118,464",AS
+NG,Nigeria,"154,000,000",AF
+RU,Russia,"140,702,000",EU
+JP,Japan,"127,288,000",AS
+MX,Mexico,"112,468,855",NA
+PH,Philippines,"99,900,177",AS
+VN,Vietnam,"89,571,130",AS
+ET,Ethiopia,"88,013,491",AF
+DE,Germany,"81,802,257",EU
+EG,Egypt,"80,471,869",AF
+TR,Turkey,"77,804,122",AS
+IR,Iran,"76,923,300",AS
+CD,DR Congo,"70,916,439",AF
+TH,Thailand,"67,089,500",AS
+FR,France,"64,768,389",EU
+GB,United Kingdom,"62,348,447",EU
+IT,Italy,"60,340,328",EU
+MM,Myanmar,"53,414,374",AS
+ZA,South Africa,"49,000,000",AF
+KR,South Korea,"48,422,644",AS
+CO,Colombia,"47,790,000",SA
+ES,Spain,"46,505,963",EU
+UA,Ukraine,"45,415,596",EU
+TZ,Tanzania,"41,892,895",AF
+AR,Argentina,"41,343,201",SA
+KE,Kenya,"40,046,566",AF
+PL,Poland,"38,500,000",EU
+SD,Sudan,"35,000,000",AF
+DZ,Algeria,"34,586,184",AF
+MA,Morocco,"33,848,242",AF
+CA,Canada,"33,679,000",NA
+UG,Uganda,"33,398,682",AF
+PE,Peru,"29,907,003",SA
+IQ,Iraq,"29,671,605",AS
+AF,Afghanistan,"29,121,286",AS
+NP,Nepal,"28,951,852",AS
+MY,Malaysia,"28,274,729",AS
+UZ,Uzbekistan,"27,865,738",AS
+VE,Venezuela,"27,223,228",SA
+SA,Saudi Arabia,"25,731,776",AS
+GH,Ghana,"24,339,838",AF
+YE,Yemen,"23,495,361",AS
+KP,North Korea,"22,912,177",AS
+TW,Taiwan,"22,894,384",AS
+SY,Syria,"22,198,110",AS
+MZ,Mozambique,"22,061,451",AF
+RO,Romania,"21,959,278",EU
+AU,Australia,"21,515,754",OC
+LK,Sri Lanka,"21,513,990",AS
+MG,Madagascar,"21,281,844",AF
+CI,Ivory Coast,"21,058,798",AF
+CM,Cameroon,"19,294,149",AF
+MW,Malawi,"17,563,749",AF
+CL,Chile,"16,746,491",SA
+NL,Netherlands,"16,645,000",EU
+BF,Burkina Faso,"16,241,811",AF
+NE,Niger,"15,878,271",AF
+KZ,Kazakhstan,"15,340,000",AS
+EC,Ecuador,"14,790,608",SA
+KH,Cambodia,"14,453,680",AS
+ML,Mali,"13,796,354",AF
+GT,Guatemala,"13,550,440",NA
+ZM,Zambia,"13,460,305",AF
+AO,Angola,"13,068,161",AF
+ZW,Zimbabwe,"13,061,000",AF
+SN,Senegal,"12,323,252",AF
+CU,Cuba,"11,423,000",NA
+RW,Rwanda,"11,055,976",AF
+GR,Greece,"11,000,000",EU
+CS,Serbia and Montenegro,"10,829,175",EU
+PT,Portugal,"10,676,000",EU
+TN,Tunisia,"10,589,025",AF
+TD,Chad,"10,543,464",AF
+CZ,Czechia,"10,476,000",EU
+BE,Belgium,"10,403,000",EU
+GN,Guinea,"10,324,025",AF
+SO,Somalia,"10,112,453",AF
+HU,Hungary,"9,982,000",EU
+BO,Bolivia,"9,947,418",SA
+BI,Burundi,"9,863,117",AF
+SE,Sweden,"9,828,655",EU
+DO,Dominican Republic,"9,823,821",NA
+BY,Belarus,"9,685,000",EU
+HT,Haiti,"9,648,924",NA
+BJ,Benin,"9,056,010",AF
+CH,Switzerland,"8,484,100",EU
+AZ,Azerbaijan,"8,303,512",AS
+SS,South Sudan,"8,260,490",AF
+AT,Austria,"8,205,000",EU
+HN,Honduras,"7,989,415",NA
+TJ,Tajikistan,"7,487,489",AS
+IL,Israel,"7,353,985",AS
+RS,Serbia,"7,344,847",EU
+BG,Bulgaria,"7,000,039",EU
+HK,Hong Kong,"6,898,686",AS
+TG,Togo,"6,587,239",AF
+LY,Libya,"6,461,454",AF
+JO,Jordan,"6,407,085",AS
+PY,Paraguay,"6,375,830",SA
+LA,Laos,"6,368,162",AS
+PG,Papua New Guinea,"6,064,515",OC
+SV,El Salvador,"6,052,064",NA
+NI,Nicaragua,"5,995,928",NA
+ER,Eritrea,"5,792,984",AF
+KG,Kyrgyzstan,"5,776,500",AS
+DK,Denmark,"5,484,000",EU
+SK,Slovakia,"5,455,000",EU
+SL,Sierra Leone,"5,245,695",AF
+FI,Finland,"5,244,000",EU
+NO,Norway,"5,009,150",EU
+AE,United Arab Emirates,"4,975,593",AS
+TM,Turkmenistan,"4,940,916",AS
+CF,Central African Republic,"4,844,927",AF
+SG,Singapore,"4,701,069",AS
+GE,Georgia,"4,630,000",AS
+IE,Ireland,"4,622,917",EU
+BA,Bosnia and Herzegovina,"4,590,000",EU
+CR,Costa Rica,"4,516,220",NA
+MD,Moldova,"4,324,000",EU
+HR,Croatia,"4,284,889",EU
+NZ,New Zealand,"4,252,277",OC
+LB,Lebanon,"4,125,247",AS
+PR,Puerto Rico,"3,916,632",NA
+PS,Palestine,"3,800,000",AS
+LR,Liberia,"3,685,076",AF
+UY,Uruguay,"3,477,000",SA
+PA,Panama,"3,410,676",NA
+MR,Mauritania,"3,205,060",AF
+MN,Mongolia,"3,086,918",AS
+CG,Congo Republic,"3,039,126",AF
+AL,Albania,"2,986,952",EU
+AM,Armenia,"2,968,000",AS
+OM,Oman,"2,967,717",AS
+LT,Lithuania,"2,944,459",EU
+JM,Jamaica,"2,847,232",NA
+KW,Kuwait,"2,789,132",AS
+LV,Latvia,"2,217,969",EU
+NA,Namibia,"2,128,471",AF
+MK,North Macedonia,"2,062,294",EU
+BW,Botswana,"2,029,307",AF
+SI,Slovenia,"2,007,000",EU
+LS,Lesotho,"1,919,552",AF
+XK,Kosovo,"1,800,000",EU
+GM,Gambia,"1,593,256",AF
+GW,Guinea-Bissau,"1,565,126",AF
+GA,Gabon,"1,545,255",AF
+SZ,Eswatini,"1,354,051",AF
+TT,Trinidad and Tobago,"1,328,019",NA
+MU,Mauritius,"1,294,104",AF
+EE,Estonia,"1,291,170",EU
+TL,Timor-Leste,"1,154,625",OC
+CY,Cyprus,"1,102,677",EU
+GQ,Equatorial Guinea,"1,014,999",AF
+FJ,Fiji,"875,983",OC
+QA,Qatar,"840,926",AS
+RE,Reunion,"776,948",AF
+KM,Comoros,"773,407",AF
+GY,Guyana,"748,486",SA
+DJ,Djibouti,"740,528",AF
+BH,Bahrain,"738,004",AS
+BT,Bhutan,"699,847",AS
+ME,Montenegro,"666,730",EU
+SB,Solomon Islands,"559,198",OC
+CV,Cabo Verde,"508,659",AF
+LU,Luxembourg,"497,538",EU
+SR,Suriname,"492,829",SA
+MO,Macao,"449,198",AS
+GP,Guadeloupe,"443,000",NA
+MQ,Martinique,"432,900",NA
+MT,Malta,"403,000",EU
+MV,Maldives,"395,650",AS
+BN,Brunei,"395,027",AS
+BZ,Belize,"314,522",NA
+IS,Iceland,"308,910",EU
+BS,Bahamas,"301,790",NA
+AN,Netherlands Antilles,"300,000",NA
+BB,Barbados,"285,653",NA
+EH,Western Sahara,"273,008",AF
+PF,French Polynesia,"270,485",OC
+VU,Vanuatu,"221,552",OC
+NC,New Caledonia,"216,494",OC
+ST,Sao Tome and Principe,"197,700",AF
+GF,French Guiana,"195,506",SA
+WS,Samoa,"192,001",OC
+LC,Saint Lucia,"160,922",NA
+GU,Guam,"159,358",OC
+YT,Mayotte,"159,042",AF
+CW,Curacao,"141,766",NA
+TO,Tonga,"122,580",OC
+VI,U.S. Virgin Islands,"108,708",NA
+GD,Grenada,"107,818",NA
+FM,Micronesia,"107,708",OC
+VC,St Vincent and Grenadines,"104,217",NA
+KI,Kiribati,"92,533",OC
+JE,Jersey,"90,812",EU
+SC,Seychelles,"88,340",AF
+AG,Antigua and Barbuda,"86,754",NA
+AD,Andorra,"84,000",EU
+IM,Isle of Man,"75,049",EU
+DM,Dominica,"72,813",NA
+AW,Aruba,"71,566",NA
+MH,Marshall Islands,"65,859",OC
+BM,Bermuda,"65,365",NA
+GG,Guernsey,"65,228",EU
+AS,American Samoa,"57,881",OC
+GL,Greenland,"56,375",NA
+MP,Northern Mariana Islands,"53,883",OC
+KN,St Kitts and Nevis,"51,134",NA
+FO,Faroe Islands,"48,228",EU
+KY,Cayman Islands,"44,270",NA
+SX,Sint Maarten,"37,429",NA
+MF,Saint Martin,"35,925",NA
+LI,Liechtenstein,"35,000",EU
+MC,Monaco,"32,965",EU
+SM,San Marino,"31,477",EU
+GI,Gibraltar,"27,884",EU
+AX,Aland,"26,711",EU
+VG,British Virgin Islands,"21,730",NA
+CK,Cook Islands,"21,388",OC
+TC,Turks and Caicos Islands,"20,556",NA
+PW,Palau,"19,907",OC
+BQ,"Bonaire, Sint Eustatius, and Saba","18,012",NA
+WF,Wallis and Futuna,"16,025",OC
+AI,Anguilla,"13,254",NA
+TV,Tuvalu,"10,472",OC
+NR,Nauru,"10,065",OC
+MS,Montserrat,"9,341",NA
+BL,Saint Barthelemy,"8,450",NA
+SH,Saint Helena,"7,460",AF
+PM,Saint Pierre and Miquelon,"7,012",NA
+IO,British Indian Ocean Territory,"4,000",AS
+FK,Falkland Islands,"2,638",SA
+SJ,Svalbard and Jan Mayen,"2,550",EU
+NU,Niue,"2,166",OC
+NF,Norfolk Island,"1,828",OC
+CX,Christmas Island,"1,500",OC
+TK,Tokelau,"1,466",OC
+VA,Vatican City,921,EU
+CC,Cocos [Keeling] Islands,628,AS
+TF,French Southern Territories,140,AN
+PN,Pitcairn Islands,46,OC
+GS,South Georgia and South Sandwich Islands,30,AN
+AQ,Antarctica,0,AN
+BV,Bouvet Island,0,AN
+HM,Heard Island and McDonald Islands,0,AN
+UM,U.S. Minor Outlying Islands,0,OC

@@ -1,7 +1,7 @@
-import unidecode
 import re
 import csv
 import numpy as np
+import unidecode
 
 class Table():
     def __init__(self):

@@ -1,4 +1,13 @@
 import numpy as np
+import matplotlib.pyplot as plt
+
+def show(T, P, labels):
+    for i, l in enumerate(labels):
+        plt.plot(T, P[:,i], label = l)
+
+    plt.legend()
+    plt.xlabel('Days')
+    plt.ylabel('Individuals')
 
 class Node():
     def __init__(self, steps, country, disease_model):
@@ -10,9 +19,29 @@ class Node():
         P[0,:] = P_0
         self.P = P
 
+        self.labels = ["Susceptible", "Infected (asymptomatic)", "Infected (symptomatic)", "Recovered", "Dead"]
+
     def step(self, i, delta_t):
         d = self.disease_model.derivative(self.P[i - 1], i * delta_t)
         self.P[i] = self.P[i - 1] + delta_t * d
+
+    def add_column(self, c, name):
+        P = np.zeros([self.P.shape[0], self.P.shape[1] + 1])
+        P[:,:-1] = self.P
+        P[:,-1] = c
+        self.P = P
+        self.labels.append(name)
+
+    def show(self, T, mask = None):
+        if mask is None:
+            mask =
+        print(f'Total deaths: {self.country.population - self.P[-1,4]}')
+        self.add_column(self.country.population - self.P[:,4], "Population")
+        # plt.plot(T, N - np.sum(P, axis=1), label = "Recovered")
+
+        show(T, self.P, self.labels)
+        plt.title(f'Disease progression for {self.country}')
+        plt.show()
 
 class DiseaseModel():
     def __init__(self):
